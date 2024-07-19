@@ -207,14 +207,14 @@
       "ext": "分类url:http://www.sharenice.net/{cateId}?page={catePg},分类:抖音,直接播放:1,嗅探词:play/?#?item#qianpailive#.flv#mp4"
     },
     {
-      "key": "csp_xb_zxzj",
-      "name": "在线之家(XBiu)",
-      "type": 3,
-      "api": "csp_XBiu",
+      "key": "t4_zemb1",
+      "name": "Emby┃TV",
+      "type": 4,
+      "api": "http://3.1.204.126/jk/T4/T4-emby2.php",
       "searchable": 1,
+      "playerType": 2,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/zxzj.json"
+      "filterable": 1,
     },
     {
       "key": "csp_xb_auete",
